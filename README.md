@@ -3,7 +3,7 @@
     ├── data
     ├──── processed
     ├──── raw
-    ├── experiments
+    ├── notebooks
     ├── images
     ├── models
     ├── reports
